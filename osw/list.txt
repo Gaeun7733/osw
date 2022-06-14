@@ -1,8 +1,0 @@
-hlist.txt
-list.txt
-TA
-week02_test
-week02_test.c
-week_07
-week_08
-2022. 05. 03. (화) 10:59:04 KST
