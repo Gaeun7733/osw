@@ -1,0 +1,3 @@
+[submodule "osw-repository"]
+	path = osw-repository
+	url = https://github.com/Gaeun7733/osw-repository
